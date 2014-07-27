@@ -1,3 +1,7 @@
+#############################
+# Getting and Cleaning Data #
+#      Peer Assessment      #
+#############################
 
 # Variables storing the paths of the files we're interested in
 train_data_path <- "UCI HAR Dataset/train/X_train.txt";
